@@ -1,0 +1,28 @@
+# file: config.ini
+
+#universal
+bcastIP = 127.0.0.1
+
+#tspike
+tspikes = on
+ttChan = 1
+ttPath = /home/slayton/soma/synthSoma/data/test.tt 
+ttNum = 2000 
+ttRate = 250
+
+#waves
+waves = off
+waveChan = 0  1
+wavePath = /home/slayton/data/eeg1.eeg //fakeWave
+waveNum = 2000 1000
+
+#events
+events = off
+cyclelen = 20e-3
+
+#audio device
+audio = off
+sinewave = true
+frequency = 1000
+audioFile = /home/slayton/data/eeg1.eeg
+

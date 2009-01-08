@@ -1,0 +1,17 @@
+'This document does NOT contain full instructions on how to use Synthetic
+Soma, for full instructions goto: 
+
+http://soma.mit.edu/wiki/Software/SynthSoma
+
+If you have any questions please email Stuart Layton<slayton@mit.edu>	
+
+
+Synthetic Soma.
+
+How To run Synthetic Soma
+
+$ python synthSoma.py -f config.ini
+
+Goto http://soma.mit.edu/ and read the section on Synthetic Soma for more
+instructions on how to write config files
+
